@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Amuthavarshini Arunachallam",
+      "email": "amuthavarshini22@gmail.com",
+      "userId": "1",
+      "id": "2uIX_Hp"
+    },
+    {
+      "name": "BhavanRaj",
+      "email": "bhavanraj09@gmail.com",
+      "userId": "1",
+      "id": "kwAyMuH"
+    },
+    {
+      "name": "BhavanRaj",
+      "email": "bhavanraj09@gmail.com",
+      "userId": "2",
+      "id": "Bj0ae9T"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Amutha",
+      "email": "amutha20@gmail.com",
+      "password": "22102004"
+    }
+  ]
+}
